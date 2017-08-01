@@ -4,3 +4,4 @@ Creating a new branch is quick AND simple.
 Git is a free software!
 Branch management!
 Fix bug!
+add coding: utf-8
